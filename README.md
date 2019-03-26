@@ -1,2 +1,0 @@
-# graphcms
-Playing with GraphCMS
